@@ -28,3 +28,19 @@ Please use the mod as it is meant to be used for the full experience.
 ///
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ///
+Remove all previous scripts if you have them installed.
+You can either rename the script folder to something else or delete it permanently.
+
+Press Win key + R and paste the following line in there and press enter.
+%localappdata%\Plutonium\storage\t6
+
+if you don't have folders called scripts and images  inside of t6 folder, create them.
+
+Inside of scripts folder, create a folder called zm. Create a folder called zm_transit inside of "zm" -folder
+
+Drag all the gsc files downloaded from the git link that I provided inside of your zm_transit folder.
+
+Now back to t6/images folder... 
+  Paste all custom textures inside of images folder.
+
+After all this, remove the t6r folder from your bo2 root folder.
